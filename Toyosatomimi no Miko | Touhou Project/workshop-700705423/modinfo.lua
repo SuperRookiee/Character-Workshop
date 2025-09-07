@@ -1,5 +1,5 @@
 
-name = "Toyosatomimi no Miko | SuperRookie Version"
+name = "Toyosatomimi no Miko"
 description = "Miko is a character from Touhou, a series of popular japanese games involving filling your screen with colorful and deadly projectiles. [Version: 1.3.8]"
 author = "SuperRookie"
 version = "1.3.8"

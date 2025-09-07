@@ -82,9 +82,11 @@ local function perkstats(inst)
 		
 		inst.components.sanity.neg_aura_mult = 1.50
 		inst.components.sanity.night_drain_mult = 1.50
-		
+
+		inst.components.combat.attackrange = 5
+
 		inst.entity:AddLight()
-		inst.Light:SetRadius(5)
+		inst.Light:SetRadius(10)
 		inst.Light:SetFalloff(.5)
 		inst.Light:SetIntensity(.5)
 		inst.Light:SetColour(200/255,150/255,50/255)
@@ -136,7 +138,7 @@ local function perkstats(inst)
 		inst.components.sanity.night_drain_mult = 1.50
 		
 		inst.entity:AddLight()
-		inst.Light:SetRadius(5)
+		inst.Light:SetRadius(10)
 		inst.Light:SetFalloff(.5)
 		inst.Light:SetIntensity(.5)
 		inst.Light:SetColour(200/255,150/255,50/255)
