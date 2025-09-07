@@ -75,7 +75,7 @@ local function fn(colour)
     inst.components.equippable.dapperness = TUNING.CRAZINESS_SMALL
 
 	inst.components.weapon:SetDamage(TUNING.JALTERCLAYMORE_DAM)
-	inst.components.weapon:SetRange(0.9)
+	inst.components.weapon:SetRange(1.25)
 	
     return inst
 end
