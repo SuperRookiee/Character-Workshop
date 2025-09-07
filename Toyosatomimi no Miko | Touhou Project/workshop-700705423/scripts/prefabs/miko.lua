@@ -126,11 +126,11 @@ local function perkstats(inst)
 		
 		inst.components.hunger.hungerrate = ( 0.5 * TUNING.WILSON_HUNGER_RATE )
 	
-		inst.components.combat.damagemultiplier = 0.75
-		inst.components.health.absorb = -0.25
+		inst.components.combat.damagemultiplier = 1.0
+		inst.components.health.absorb = -0.1
 	
-		inst.components.locomotor.walkspeed = 0.75 * TUNING.WILSON_WALK_SPEED
-		inst.components.locomotor.runspeed = 0.75 * TUNING.WILSON_RUN_SPEED
+		inst.components.locomotor.walkspeed = 1.0 * TUNING.WILSON_WALK_SPEED
+		inst.components.locomotor.runspeed = 1.0 * TUNING.WILSON_RUN_SPEED
 		
 		inst.components.sanity.neg_aura_mult = 1.50
 		inst.components.sanity.night_drain_mult = 1.50
