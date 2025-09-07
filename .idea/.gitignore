@@ -1,0 +1,8 @@
+# 디폴트 무시된 파일
+/../../Don't Starve Together 워크샵/.idea/shelf/
+/../../Don't Starve Together 워크샵/.idea/workspace.xml
+# 에디터 기반 HTTP 클라이언트 요청
+/../../Don't Starve Together 워크샵/.idea/httpRequests/
+# Datasource local storage ignored files
+/../../Don't Starve Together 워크샵/.idea/dataSources/
+/../../Don't Starve Together 워크샵/.idea/dataSources.local.xml

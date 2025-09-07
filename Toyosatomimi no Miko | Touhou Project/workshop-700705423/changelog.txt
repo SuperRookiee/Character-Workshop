@@ -1,0 +1,23 @@
+Toyosatomimi no Miko | Touhou Project
+
+Changelog (Last Update: 28.12.2016 - Version 1.3.8)
+
+Version 0.7.1 - Added some custom perks.
+Version 0.7.5 - Fixed the disappearing body parts glitch.
+Version 0.9.1 - Slightly polished Facial Animations.
+Version 0.9.6 - Added Map Icons, Avatars, Name Logos, Save Slot and Select Screen Portraits.
+Version 1.0.0 - Uploaded to Steam Workshop.
+Version 1.0.1 - Fixed mod files not updating properly.
+Version 1.1.0 - Slightly tweaked the perks.
+Version 1.1.1 - Fixed the Light Aura being way brighter than intended.
+Version 1.2.0 - Added some starting items.
+Version 1.2.5 - Fixed the Character Select Screen.
+Version 1.3.0 - Completely reworked how Perk bonus stat scaling works.
+Version 1.3.1 - Added a notification when certain perk effects trigger.
+Version 1.3.2 - Minor tweaks and fixes.
+Version 1.3.6 - Updated for newer versions of the game.
+Version 1.3.8 - Minor tweaks for better compatibility with the "A New Reign" update.
+
+Current Mod Version: [1.3.8]
+DST Character Mod created by: Senshimi [https://steamcommunity.com/id/Senshimi/]
+Touhou Project Collection: [http://steamcommunity.com/sharedfiles/filedetails/?id=701414094]

@@ -1,0 +1,117 @@
+
+[h1][b] Jeanne d' Arc (ALTER). [/b][/h1]
+[i][b] The Avenger Class from Team Fortress 2. [/b][/i]
+.
+.
+Nah just kidding it's from FATE
+This is Version 1.0!
+So I was playing D.S.T. and alas! There is a Jeanne mod but no JALTER MOD?? 
+Well then I took it to myself to actually make it myself [spoiler]Things you do for your waifu[/spoiler]
+
+[h1][b] The Avenger from FATE/Grand Order joins the Constant! [/b][/h1]
+
+Mod inspiration: Jeanne d'Arc (FATE/APOCRYPHA)
+https://steamcommunity.com/sharedfiles/filedetails/?id=1125385407
+
+
+[h1][b] Items, Weapons and Stuff! [/b][/h1]
+[b] Bundled Items! [/b]
+[list]
+    [*] St Catherine's Hewer 
+    [*] Wayward Standard
+    [*] Zinnian Hairpin
+    [*] Heretic's Torq
+    [*] Peculiar Harlequinn
+    [*] The Psalm
+    [*] The Lvnatic Crvsader
+    [*] Sweetheart's Mozzetta
+    [*] Old Cross
+    [*] Ghastful Ember
+    [*] Perturbing Pellucid
+[/list]
+
+[b] Three Unique Headgears [/b]
+Heretic's Torq: The iconinc torq of the Dragon Witch.
+Drains sanity. 
+72% Damage Absorption. 999 Durability. 
+60% Sanity Penalty
+
+[u] Peculiar Harlequinn: [/u] Jeanne doesn't know where this is from but it certainly gives her de ja vu.
+Movement speed multipier of 1.19 
+30% Sanity Penalty
+
+[u] Zinnian Hairpin: [/u] A bittersweet reminder. 
+Gain sanity.
+10% Sanity Penalty
+
+[b] More Equipment! [/b]
+
+[u] St Catherine's Hewer: [/u] Jeanne's Claymore ripped straight from the canon. 
+Reduced durability consumption and +20 Damage on attacking Shadow Creatures
+60 Damage and 430 Uses.
+
+[u] Wayward Standard: [/u] Jeanne Alter carries on as she survives The Constant.
+15 Damage and 430 Uses 20% Sanity Penalty. Gains Sanity.
+
+[u] Old Cross: [/u] Keep the Horror's at bay. It's a gift to that frail little girl.
+50 Uses. 7 Damage. +95 Damage and Reduced Durability Consumption on Shadow Creatures
+
+[u] The Psalm: [/u] It's a book with a different use!
+Sanity when held! 
+15 Damage and 430 Uses. 
+Ingredient to craft the Crusader.
+40% Sanity Penalty
+
+[u] The Lvnatic Crvsader: [/u] Bible-on-a-stick, Bible-Q, [b] USE WITH CAUTION [/b]
+100% Chance to spawn Lightning on Target dealing 46 Damage.
+10% Chance to Spawn a Meteor Shower / Lightning Strike to Target
+5% Chance to Spawn Meteor / 5% Lightning Strike on User
+
+[u] Sweetheart's Mozzetta: [/u]  It's Jeanne Alter's mantle straight from Rouen. Its coziness drives you mad! 
+[b]New!! You can now sleep on it![/b]
+On Equip: 
+Insulation, 
+1200 Durability, 85% Damage Absorption. 
+Increased hunger.
+Crawling Horrors and Terrorbeaks become neutral
+On Sleeping: 
+Hunger Drain. 
+Sanity Regeneration. 
+High Health regeneration. 
+Groggy after waking up.
+
+[b] Foodies [/b]
+[u] Ghastful Ember: [/u] It burns the tongue... and it is good food too!
+Hunger +30. Health +30. Sanity +30
+
+[u] Perturbing Pellucid: [/u] Dread emanates from this horrific impossible gem. 
+Consume to increase max stats!
+Hunger +9. Health +9. Sanity -9.
+
+[b][h1]Her Stats and Quirks![/h1][/b]
+Increase her stats by crafting and consuming the Perturbing Pellucid four times!
+[table]
+    [tr]
+        [th]Stats[/th]
+        [th]Value[/th]
+    [/tr]
+    [tr]
+        [td]Health[/td]
+        [td]70~90[/td]
+    [/tr]
+    [tr]
+        [td]Hunger[/td]
+        [td]85~100[/td]
+    [/tr]
+    [tr]
+        [td]Sanity[/td]
+        [td]100 ~ 150[/td]
+    [/tr]
+[/table]
+Gain +4 Health everytime you kill a Shadow Creature!
+10% Chance to smite your attacker with Divine Retribution of 15~17 damage.
+Jeanne Alter has really low stats but compensates with cool items and a damage multiplier scaling of her sanity! 
+Get that to zero and have a 2.5x Damage multiplier! 
+Good luck surviving the first days of your venture in The Constant
+
+[h1][b]Enjoy and Don't Starve Together[/b][/h1]
