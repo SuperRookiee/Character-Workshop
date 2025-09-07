@@ -1,7 +1,7 @@
 
-name = "Toyosatomimi no Miko"
+name = "Toyosatomimi no Miko | SuperRookie Version"
 description = "Miko is a character from Touhou, a series of popular japanese games involving filling your screen with colorful and deadly projectiles. [Version: 1.3.8]"
-author = "Senshimi"
+author = "SuperRookie"
 version = "1.3.8"
 
 forumthread = "/senshimi/mods/miko/"

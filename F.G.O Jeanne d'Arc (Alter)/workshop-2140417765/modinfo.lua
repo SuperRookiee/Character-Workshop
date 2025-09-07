@@ -1,5 +1,5 @@
 -- This information tells other players more about the mod
-name = "JALTER SuperRookie Version"
+name = "Jeanne Alter | SuperRookie Version"
 description = "The Avenger Class"
 author = "SuperRookie"
 version = "1.3" -- This is the version of the template. Change it to your own number.

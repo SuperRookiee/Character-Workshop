@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="805242a1-5667-44a2-8a52-d2b288acaf2d" name="변경" comment="feat: update status" />
+    <list default="true" id="805242a1-5667-44a2-8a52-d2b288acaf2d" name="변경" comment="feat: add gitignore">
+      <change beforePath="$PROJECT_DIR$/../Don't Starve Together 워크샵/F.G.O Jeanne d'Arc (Alter)/workshop-2140417765/modinfo.lua" beforeDir="false" afterPath="$PROJECT_DIR$/../Don't Starve Together 워크샵/F.G.O Jeanne d'Arc (Alter)/workshop-2140417765/modinfo.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Don't Starve Together 워크샵/Toyosatomimi no Miko | Touhou Project/workshop-700705423/modinfo.lua" beforeDir="false" afterPath="$PROJECT_DIR$/../Don't Starve Together 워크샵/Toyosatomimi no Miko | Touhou Project/workshop-700705423/modinfo.lua" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +25,7 @@
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/SuperRookiee/Character-Workshop.git",
-    "accountId": "cceb50c9-bf44-4d12-84e1-6825ed738226"
+    "accountId": "d3678f64-6c95-4857-9317-abcaeadf5a62"
   }
 }]]></component>
   <component name="ProjectColorInfo">{
@@ -65,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1757241745763</updated>
       <workItem from="1757241747228" duration="38000" />
-      <workItem from="1757245093023" duration="389000" />
+      <workItem from="1757245093023" duration="780000" />
     </task>
     <task id="LOCAL-00001" summary="feat: update status">
       <option name="closed" value="true" />
@@ -75,7 +78,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757245408866</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: add gitignore">
+      <option name="closed" value="true" />
+      <created>1757245676839</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1757245676839</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +97,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: update status" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: update status" />
+    <MESSAGE value="feat: add gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add gitignore" />
   </component>
 </project>
