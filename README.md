@@ -1,6 +1,6 @@
 # Character-Workshop
 
-## 잔 다르크 (얼터)
+## F.G.O Jeanne d'Arc (Alter)
 
 
 ### 스킬
@@ -64,7 +64,7 @@
 
 ---
 
-## 토요사토미미노 미코
+## Toyosatomimi no Miko | Touhou Project
 
 
 ### 시간대별 능력치
