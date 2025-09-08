@@ -1,6 +1,13 @@
 # Character-Workshop
 
-## F.G.O Jeanne d'Arc (Alter)
+### description
+- 이 모드는 Don’t Starve Together에 새로운 커스텀 캐릭터와 전용 장비를 추가합니다.
+원작의 개성을 살린 독창적인 능력과 성장 시스템을 통해 기존과는 다른 플레이 경험을 제공합니다.
+팀 플레이와 개인 생존 모두에서 새로운 전략적 선택지를 제공하며, 색다른 전투와 탐험의 재미를 느낄 수 있습니다.
+
+<br>
+
+## ❖ F.G.O Jeanne d'Arc (Alter)
 
 
 ### 스킬
@@ -62,9 +69,8 @@
 - 정신력 회복 보너스(중상)
 - 착용 시 정신력 페널티 0.8
 
----
 
-## Toyosatomimi no Miko | Touhou Project
+## ❖ Toyosatomimi no Miko | Touhou Project
 
 
 ### 시간대별 능력치
