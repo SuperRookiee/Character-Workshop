@@ -1,16 +1,26 @@
 # Character-Workshop
 
 ### description
-- 이 모드는 Don’t Starve Together에 새로운 커스텀 캐릭터와 전용 장비를 추가합니다.
+
+이 모드는 Don’t Starve Together에 새로운 커스텀 캐릭터와 전용 장비를 추가합니다.
+
 원작의 개성을 살린 독창적인 능력과 성장 시스템을 통해 기존과는 다른 플레이 경험을 제공합니다.
+
 팀 플레이와 개인 생존 모두에서 새로운 전략적 선택지를 제공하며, 색다른 전투와 탐험의 재미를 느낄 수 있습니다.
 
-<br>
+## 📑 목차
+- [❖ F.G.O Jeanne d'Arc (Alter)](#-fgo-jeanne-darc-alter)  
+  - [⚔️ 스킬](#️-스킬)  
+  - [🛡️ 장비](#️-장비)  
+- [❖ Toyosatomimi no Miko | Touhou Project](#-toyosatomimi-no-miko--touhou-project)  
+  - [🌙 시간대별 능력치](#-시간대별-능력치)  
+  - [🎁 시작 아이템](#-시작-아이템)  
+- [출처](#출처)  
 
+<br>
 ## ❖ F.G.O Jeanne d'Arc (Alter)
 
-
-### 스킬
+### ⚔️ 스킬
 #### 클레이모어
 - 공격 시 50% 확률로 번개가 떨어져 추가 피해 **15**
 
@@ -25,7 +35,7 @@
 - 그림자 생명체 처치 시 체력 **5** 회복
 
 
-### 장비
+### 🛡️ 장비
 #### St Catherine's Hewer
 - 공격력 **60**
 - 사거리 0.9
@@ -69,11 +79,10 @@
 - 정신력 회복 보너스(중상)
 - 착용 시 정신력 페널티 0.8
 
-
+<br/>
 ## ❖ Toyosatomimi no Miko | Touhou Project
 
-
-### 시간대별 능력치
+### 🌙 시간대별 능력치
 #### 낮
 - 공격력 ×**1.5**
 - 방어 +25%
@@ -96,7 +105,14 @@
 - 이동 속도 **1배**
 
 
-### 시작 아이템
+### 🎁 시작 아이템
 - 금덩이 ×1
 - 빨간 보석 ×1
 - 파란 보석 ×1
+
+
+## 출처
+
+[F.G.O: Jeanne d'Arc (Alter)](https://steamcommunity.com/sharedfiles/filedetails/?id=2140417765)
+
+[Toyosatomimi no Miko | Touhou Project](https://steamcommunity.com/sharedfiles/filedetails/?id=700705423)
